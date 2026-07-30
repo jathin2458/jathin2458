@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jathin 👋
 
-<!--
-**jathin2458/jathin2458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring ML/Data professional, currently building a portfolio of end-to-end machine learning projects — from classical ML through deep learning, NLP, and LLMs.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+Python · pandas · scikit-learn · SQL · PyTorch (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Featured Projects
+
+**[Titanic Survival Prediction](https://github.com/jathin2458/Titanic-survival-prediction)**
+Binary classification with feature engineering, cross-validated model comparison (Logistic Regression, Random Forest, Gradient Boosting), and full evaluation.
+
+**[House Price Prediction](https://github.com/jathin2458/house-price-prediction)**
+Regression on the Ames Housing dataset — 264 engineered features, log-transformed target, cross-validated model comparison with visualized results.
+
+## 🎯 Currently learning
+Working through a structured roadmap: NumPy → Statistics/Probability → ML → PyTorch → Deep Learning → NLP → Hugging Face → LLMs & RAG → AI Agents → MLOps.
+
+## 📫 Reach me
+[LinkedIn](#) · [Email](#)t: ...
 -->
