@@ -17,5 +17,5 @@ Regression on the Ames Housing dataset — 264 engineered features, log-transfor
 Working through a structured roadmap: NumPy → Statistics/Probability → ML → PyTorch → Deep Learning → NLP → Hugging Face → LLMs & RAG → AI Agents → MLOps.
 
 ## 📫 Reach me
-[LinkedIn](#) · [Email](#)t: ...
+· [Email](#)t: ...
 -->
