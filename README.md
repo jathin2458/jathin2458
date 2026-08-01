@@ -7,6 +7,9 @@ Python · pandas · scikit-learn · SQL · PyTorch (in progress)
 
 ## 📂 Featured Projects
 
+**[Customer Churn Prediction](https://github.com/jathin2458/Customer_churn_prediction)**
+Imbalanced binary classification — handled class imbalance with weighted models, traced a hidden data bug to its root cause, and compared precision/recall tradeoffs across three models.
+
 **[Titanic Survival Prediction](https://github.com/jathin2458/Titanic-survival-prediction)**
 Binary classification with feature engineering, cross-validated model comparison (Logistic Regression, Random Forest, Gradient Boosting), and full evaluation.
 
