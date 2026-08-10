@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jathin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Aspiring+ML+%2F+Data+Science+Professional;Building+End-to-End+ML+Projects;Classical+ML+%E2%86%92+Deep+Learning+%E2%86%92+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Aspiring+ML+%2F+Data+Science+Professional;Building+End-to-End+ML+Projects;Classical+ML+%E2%86%92+Deep+Learning+%E2%86%92+LLMs" alt="Typing SVG" />
 </p>
 
 ---
