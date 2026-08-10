@@ -37,22 +37,6 @@ Deep Learning with **PyTorch** (via Andrew Ng's Deep Learning Specialization), b
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jathin2458&show_icons=true&theme=tokyonight" alt="Jathin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jathin2458&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jathin2458&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jathinbanavathu@gmail.com)
